@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m Yunxiao Zhao [Homepage](https://yunxiaomr.github.io/)
-- 🌱 I’m currently learning rationalization.
-- 🤔 I’m interested in reinforcement learning and linguistic knowledge.
--  I’m now a second-year PhD student in SXU, China.
+- 🌱 I’m currently learning rationalization and linguistic knowledge.
+- 🤔 I’m interested in reinforcement learning. 
+- ⚡ I’m now a second-year PhD student in SXU, China. 
 
 <!--
 **yunxiaomr/yunxiaomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
