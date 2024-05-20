@@ -10,8 +10,6 @@
 - 🤔 I’m interested in reinforcement learning. 
 - ⚡ I’m now a second-year PhD student in SXU, China. 
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 <!--
 **yunxiaomr/yunxiaomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
