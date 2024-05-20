@@ -9,7 +9,7 @@
 - ⚡ I’m now a second-year PhD student in SXU, China. 
 
 
-[Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunxiaomr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yunxiaomr&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **yunxiaomr/yunxiaomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
