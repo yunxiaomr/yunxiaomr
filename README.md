@@ -5,10 +5,9 @@
 [![Yunxiao's github activity graph](https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -->
-- 🔭 I’m Yunxiao Zhao [Homepage](https://yunxiaomr.github.io/)
-- 🌱 I’m currently learning rationalization and linguistic knowledge.
-- 🤔 I’m interested in reinforcement learning. 
-- ⚡ I’m now a second-year PhD student in SXU, China. 
+- 🔭 I’m ZHAO Yunxiao [Homepage](https://yunxiaomr.github.io/)
+- 🌱 I’m now a Phd student in China, and I'm also a visiting research student in Singapore.
+- 🤔 I’m interested in explainable natural language processing. 
 
 
 <!--
