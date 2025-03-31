@@ -6,7 +6,7 @@
 
 -->
 - 🔭 I’m ZHAO Yunxiao [Homepage](https://yunxiaomr.github.io/)
-- 🌱 I’m now a Phd student in China, and I'm also a visiting researcher in Singapore.
+- 🌱 I’m now a Phd student in China, and I'm also a visiting research student in Singapore.
 - 🤔 I’m interested in explainable natural language processing. 
 
 
