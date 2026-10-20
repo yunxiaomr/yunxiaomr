@@ -6,7 +6,7 @@
 
 -->
 - 🔭 I’m ZHAO Yunxiao [Homepage](https://yunxiaomr.github.io/)
-- 🌱 I’m now a Phd student in China, and I'm also a visiting research student in Singapore.
+- 🌱 I’m a Ph.D. student at the School of Computer and Information Technology, Shanxi University (SXU), and a joint Ph.D. student at the Singapore University of Technology and Design (SUTD).
 
 
 <!--
